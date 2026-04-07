@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Maxim
 
-<!--
-**DemarevMaxim/DemarevMaxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Backend Developer (Python / FastAPI)
 
-Here are some ideas to get you started:
+I'm a backend developer focused on building REST APIs using Python and modern backend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+- 🐍 Python  
+- ⚡ FastAPI  
+- 🗄 PostgreSQL  
+- 🐳 Docker & Docker Compose  
+- 🔐 JWT Authentication  
+- 🧩 SQLAlchemy  
+- 📄 Pydantic  
+- 🔧 Git & GitHub  
+
+---
+
+## 📦 My Projects
+
+### 🧠 Task Manager API  
+REST API with user authentication, roles, and task management.  
+Tech: FastAPI, PostgreSQL, JWT, Docker  
+
+🔗 https://github.com/DemarevMaxim/task-manager-api  
+
+---
+
+### 🛒 E-commerce API  
+Backend for an online store with products, categories, cart, and orders.  
+Tech: FastAPI, PostgreSQL, Docker  
+
+🔗 https://github.com/DemarevMaxim/fastapi-ecommerce-api  
+
+---
+
+### 📝 Blog API  
+REST API for blog platform with users and posts.  
+Tech: FastAPI, PostgreSQL, Docker  
+
+🔗 https://github.com/DemarevMaxim/blog-api-fastapi  
+
+---
+
+## 🎯 Goal
+
+I'm actively looking for a **Junior Backend Developer** position and continue improving my backend development skills.
+
+---
+
+## 📫 Contact
+
+GitHub: https://github.com/DemarevMaxim
